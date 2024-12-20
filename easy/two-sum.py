@@ -12,7 +12,6 @@ class Solution:
         return []
 
 # hash map:
-
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         # create a hashmap
